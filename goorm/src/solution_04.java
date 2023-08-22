@@ -22,7 +22,6 @@ public class solution_04 {
         }
 
         SUM = 0;
-
         // 왼쪽
         for (int i = maxTaste[0] - 1; 0 <= i; i--) {
             if(taste[i + 1] < taste[i]) {
