@@ -19,10 +19,11 @@ public class solution_11 {
         B = Integer.parseInt(st.nextToken());  // 더 큰 치료제
 
         ache = new int[((int) Math.floor(N / B)) + 1];  // 필요한 최대 큰 치료제 개수
-        Arrays.fill(ache, N);
+        Arrays.fill(ache, N);  // 치료제 값으로 채우기
+        
         DP(0, (int) Math.floor(N / B));
 
-        System.out.println(-1);
+        System.out.println(-1);  // 계산이 되지 않을 경우 -1 출력
     }
 
     private static void DP(int aCnt, int bCnt) {
