@@ -1,11 +1,10 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
-public class solution_10 {
+public class goorm10_GameJam {
     private static class Person {
         Person(int r, int c) {
             this.r = r;

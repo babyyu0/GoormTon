@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class solution_06 {
+public class goorm06_문자열나누기 {
 
     private static int N;
     private static String S;

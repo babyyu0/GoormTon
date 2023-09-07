@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class solution_07 {
+public class goorm07_구름찾기깃발 {
 
     private static int N, K, SUM;
     private static int[][] arr;

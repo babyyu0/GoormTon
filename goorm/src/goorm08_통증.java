@@ -1,7 +1,6 @@
 import java.io.*;
-import java.util.*;
 
-public class solution_08 {
+public class goorm08_통증 {
 
     private static int[] painkiller = new int[] {14, 7, 1};
     private static long N;

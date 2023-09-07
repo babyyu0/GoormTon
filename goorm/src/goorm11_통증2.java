@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class solution_11 {
+public class goorm11_통증2 {
     
     private static int A, B, N;  // 통증완화제
     private static int[] ache;

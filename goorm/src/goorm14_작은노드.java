@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class solution_14 {
+public class goorm14_작은노드 {
 
     private static int N, M, K;  // 노드 개수, 간선 개수, 시작 노드의 번호
     private static List<Integer>[] nodes;

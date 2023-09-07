@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class solution_05 {
+public class goorm05_이진수정렬 {
 
     static class Binary implements Comparable<Binary> {  // 2진수 정보를 담을 class
         public Binary(long num, int oneNum) {

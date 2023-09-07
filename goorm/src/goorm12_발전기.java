@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class solution_12 {
+public class goorm12_발전기 {
 
     private static class Pos {
         private Pos(int r, int c) { this.r = r; this.c = c; }

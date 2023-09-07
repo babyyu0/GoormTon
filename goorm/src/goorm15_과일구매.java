@@ -1,15 +1,14 @@
 import java.io.*;
 import java.util.*;
 
-public class solution_15 {
+public class goorm15_과일구매 {
     private static class Fruit implements Comparable<Fruit> {
         private Fruit(int price, int hunger) {
             this.price = price;
             this.hunger = hunger;
-            this.pieceHunger = (hunger / price);  // 한 조각 당 포만감 계산
         }
 
-        long price, hunger, pieceHunger;
+        long price, hunger;
 
         @Override
         public int compareTo(Fruit o) {

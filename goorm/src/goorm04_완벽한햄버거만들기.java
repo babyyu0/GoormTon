@@ -1,10 +1,9 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class solution_04 {
+public class goorm04_완벽한햄버거만들기 {
 
     private static int N, SUM;
     private static int[] taste;
